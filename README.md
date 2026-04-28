@@ -12,11 +12,11 @@ This is an industry-oriented machine learning project designed to predict studen
 
 ### 1️⃣ Key Risk Factors
 Analysis of academic features impacting student performance predictions.
-<img src="images/feature_importance.png" width="800">
+<img src="Student-Performance-Prediction/images/feature_importance.png" width="800">
 
 ### 2️⃣ Risk Distribution
 Breakdown of overall student risk status (Safe vs At-Risk).
-<img src="images/risk_distribution.png" width="800">
+<img src="Student-Performance-Prediction/images/risk_distribution.png" width="800">
 ---
 
 ## 🚀 Key Features
