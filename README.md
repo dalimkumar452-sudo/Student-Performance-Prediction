@@ -3,14 +3,12 @@
 This is an industry-oriented machine learning project designed to predict student performance levels using academic and behavioral signals. It features a modular Python architecture, an automated XGBoost pipeline, and a FastAPI inference service.
 
 ## 📊 Project Visuals
-
 ### 1. Key Risk Factors
-Analysis of features impacting student performance predictions.
 ![Feature Importance](images/feature_importance.png)
 
 ### 2. Risk Distribution
-Breakdown of overall student risk status.
 ![Risk Distribution](images/risk_distribution.png)
+
 
 ---
 
